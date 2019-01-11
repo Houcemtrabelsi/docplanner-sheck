@@ -1,0 +1,183 @@
+.img-fluid{
+
+width: 268px;
+height: 33px;
+}
+.ahbet{
+    margin-top: 100px
+    
+    
+}
+.titre{
+    text-align: center;
+    color: #00b39b;
+    
+    
+}
+
+
+
+.para{
+    display: flex;
+    justify-content: center;
+
+
+}
+.part1{
+width: ;
+    font-weight: 400;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;
+}
+.part2{
+    
+    font-weight: 400;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;
+}
+
+
+
+
+
+.card{
+    overflow: hidden;
+    
+    padding: 1.375em 2.5em 0;
+    width: 500px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 80px
+}
+.section2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.image2{
+    margin-left: 150px
+    
+    
+}
+.image1{
+    margin-left: 0px
+}
+.estwi{
+    display: flex
+}
+
+
+.ref3{
+    margin-top: 50px;
+    margin-left: 30!important;
+    margin-right: 30!important;
+
+
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 653.250 ;
+    height: 90 ;
+
+}
+
+.par1{
+    color: #00b39b
+}
+.par2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px
+}
+.joujma{
+    display: flex;
+    flex-direction: row
+    
+}
+.media{
+    margin-left: 20px;
+    color: #747474
+
+}
+.gg{
+    margin-right: 1px
+}
+
+
+.ref4{
+    display: flex;
+    background: #e5faf8;
+   border: 1px solid #e5faf8
+
+}
+
+.titcomplet{
+    margin-left:;
+    
+}
+.isar{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end
+}
+.tit1{
+    margin-top: ;
+    color: #00b39b
+}
+.joumal{
+    color: #747474
+}
+.card-text{
+    font-size: 10px
+}
+.card-title{
+    color: #00b39b;
+    
+
+}
+.card1{
+    /* display: flex;
+    flex-direction: column; */
+    padding: 1.375em 1.5em 0;
+    width: 500px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 80px
+}
+.card2{
+    padding: 1.375em 1.5em 0;
+    width: 500px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 40px
+
+}
+.ref5{
+    
+    
+    font-size: 15px
+}
+.h{
+    color: #00b39b
+}
+.p{
+    color: #747474
+}
+
+
+
+
+.card-img-top{
+    display: block;
+    margin: 0 auto;
+}
+.fooo{
+    font-size: 14px;
+    color: #747474
+}
+
+
